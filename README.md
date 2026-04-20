@@ -18,9 +18,8 @@
 
 ### 🏆 Мои проекты
 
-|[![DropFilesKgpk](./assets/header.png)](https://github.com/freska46/dropfileskgpk)|
-|:--:|
 |[**DropFilesKgpk**](https://github.com/freska46/dropfileskgpk) — Личный файлообменник с полным функционалом|
+|:--:|
 
 **Возможности:**
 - Регистрация и вход с подтверждением email
