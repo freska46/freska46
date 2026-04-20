@@ -1,4 +1,4 @@
-[![Header](./assets/header.png)](https://github.com/freska46)
+[![Header](./assets/header1.png)](https://github.com/freska46)
 
 ## Привет! Меня зовут Pakhom 👋
 
