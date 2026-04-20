@@ -16,6 +16,24 @@
 - 📖 Изучаю новые технологии и подходы
 - 🚀 Стремлюсь к чистому и качественному коду
 
+### 🏆 Мои проекты
+
+|[![DropFilesKgpk](./assets/header.png)](https://github.com/freska46/dropfileskgpk)|
+|:--:|
+|[**DropFilesKgpk**](https://github.com/freska46/dropfileskgpk) — Личный файлообменник с полным функционалом|
+
+**Возможности:**
+- Регистрация и вход с подтверждением email
+- Двухфакторная аутентификация (2FA)
+- Drag-and-drop загрузка файлов и папок
+- Гибкая система доступа (приватный/по ссылке/публичный)
+- Админ-панель для управления пользователями
+- Тёмная и светлая тема
+
+**Стек:** Next.js 14, TypeScript, PostgreSQL, Prisma, TailwindCSS
+
+**Ссылка:** [dropfileskgpk.vercel.app](https://dropfileskgpk.vercel.app)
+
 ### 📫 Связаться со мной
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/freska_46)
