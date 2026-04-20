@@ -3,7 +3,7 @@
 ## Привет! Меня зовут Pakhom 👋
 
 📚 **Студент Курского государственного политехнического колледжа**
-[<img src="./assets/kg-logo.png" width="80" alt="KGPK">](https://www.kg-college.ru)
+[<img src="./assets/kg-logo.png" width="120" alt="KGPK">](https://www.kg-college.ru)
 
 📅 **3 курс** | Специальность **ФГОС 09.02.07** — Информационные системы и программирование
 
