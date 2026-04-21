@@ -14,7 +14,7 @@
 
 🌱 Расту и развиваюсь в мире IT — от корней backend-разработки до вершин верстки, от почвы баз данных до крон деплоя проектов. Мне интересно изучать разные технологии и понимать, как они переплетаются вместе. Верю, что широкие знания помогают видеть лес за деревьями и находить верные тропы.
 
-Мой путь в программировании начался с изучения C# и работы с базами данных — это показалось мне могучим, как древний дуб. Позже попробовал HTML и верстку, чтобы заглянуть в кроны деревьев. Потом изучил Java для понимания объектно-ориентированных зарослей. Сейчас также изучаю Python и платформу .NET, чтобы научиться создавать разные виды приложений — как разные деревья в джунглях.
+Мой путь в программировании начался с изучения C# и работы с базами данных — это показалось мне могучим, как древний дуб. Позже попробовал HTML и верстку, чтобы заглянуть в кроны деревьев. Потом изучил Java для понимания объектно-ориентированных зарослей. Также пробую Kotlin для мобильной разработки под Android. Сейчас изучаю Python и платформу .NET, чтобы научиться создавать разные виды приложений — как разные деревья в джунглях.
 
 Моя цель — не просто писать код, а **понимать, как растёт система**. Как питательные данные передаются между клиентом и сервером, как защитить свой сад от вредителей, как сделать интерфейс удобным для путников. Каждый новый проект — это новое дерево, которое я выращиваю.
 
@@ -22,9 +22,9 @@
 
 ### 🌿🛠 Инструменты и языки программирования
 
-| C# | Python | Java |
-|:--:|:------:|:---:|
-| [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/ru-ru/dotnet/csharp/) | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) | [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) |
+| C# | Python | Java | Kotlin |
+|:--:|:------:|:---:|:------:|
+| [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/ru-ru/dotnet/csharp/) | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) | [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) | [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/) |
 
 ### 🌱 Что я выращиваю
 
